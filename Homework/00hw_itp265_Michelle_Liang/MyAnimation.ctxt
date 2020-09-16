@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MyAnimation
+comment0.text=\n\n\ @author\ Michelle\ Liang\n\ ITP\ 265,\ Fall\ 2020,\ Tea\ Section\n\ 01\ Week,\ Homework\ 1\n\ email\:\ liangmic@usc.edu\n\ @version\ 08/20/20\n
+comment1.params=
+comment1.target=void\ drawFrame1()
+comment2.params=
+comment2.target=void\ drawFrame2()
+comment3.params=
+comment3.target=void\ run()
+comment4.params=
+comment4.target=void\ pause()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
